@@ -1,2 +1,2 @@
-print("Hello AI Env")
+print("Hello AI Environment")
 
